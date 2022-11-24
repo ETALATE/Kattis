@@ -1,4 +1,4 @@
-# Your job is to take a point and determine the quadrant it is in. You can assume that neither of the two coordinates will be .
+# Your job is to take a point and determine the quadrant it is in. You can assume that neither of the two coordinates will be 0.
 # The first line of input contains the integer x. The second line of input contains the integer y.
 
 x_coordiante = int(input())
